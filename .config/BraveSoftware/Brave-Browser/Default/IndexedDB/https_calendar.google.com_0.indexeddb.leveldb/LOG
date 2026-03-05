@@ -1,6 +1,0 @@
-2026/02/11-16:41:24.848 d81 Creating DB /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb since it was missing.
-2026/02/11-16:41:24.851 d81 Reusing MANIFEST /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/02/11-16:41:30.804 d81 Level-0 table #5: started
-2026/02/11-16:41:30.805 d81 Level-0 table #5: 1538 bytes OK
-2026/02/11-16:41:30.807 d81 Delete type=0 #3
-2026/02/11-16:41:30.807 d81 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

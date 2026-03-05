@@ -1,6 +1,0 @@
-2026/02/24-00:26:14.445 122c Creating DB /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb since it was missing.
-2026/02/24-00:26:14.450 122c Reusing MANIFEST /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/02/24-00:26:30.046 122c Level-0 table #5: started
-2026/02/24-00:26:30.048 122c Level-0 table #5: 1592 bytes OK
-2026/02/24-00:26:30.050 122c Delete type=0 #3
-2026/02/24-00:26:30.050 122c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
