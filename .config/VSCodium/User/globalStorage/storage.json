@@ -1,0 +1,108 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "367b0cfb24aabdbce5cc2737f33f66e3518d72030b557a1393bc9232f9fcfa14",
+    "telemetry.devDeviceId": "f063a367-084f-4494-936b-95a5f0e1089c",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1772656886320"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/kylo/.obsidian/Obsidian%20Vault/.obsidian/snippets": "__default__profile__",
+            "file:///home/kylo/Documents/Proyectos/QR_Generator": "__default__profile__",
+            "file:///home/kylo/.local/bin": "__default__profile__",
+            "file:///home/kylo/Documents/Scripts-privados": "__default__profile__",
+            "file:///home/kylo/videosPorno/hetero/orgasm": "__default__profile__",
+            "file:///home/kylo/videosPorno/hetero": "__default__profile__",
+            "file:///home/kylo/Downloads": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1772656886320": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/kylo/.config/VSCodium/Backups/1772656886320",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 792,
+                "height": 835
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 197,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "007c15f3c38f504927e688e39b3d78ce": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "313e712452217ba595adb82a3a4fa28c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "c0aa3c21a9f50a2b9c9adc79218c8ee5": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "fa134f3cad063a1528bdd4ae4262addc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "b336af2e7a3fff912573fcbf1c4fdc28": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f60fe17ee8eca55cd0607d7f6507c9ce": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "0aaef01f61c92e0def8254702b6cf14a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

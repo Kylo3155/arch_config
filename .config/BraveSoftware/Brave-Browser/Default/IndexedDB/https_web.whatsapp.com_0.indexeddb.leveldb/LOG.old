@@ -1,0 +1,80 @@
+2026/03/05-10:39:05.192 1289 Reusing MANIFEST /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-008929
+2026/03/05-10:39:05.193 1289 Recovering log #10636
+2026/03/05-10:39:05.193 1289 Reusing old log /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/010636.log 
+2026/03/05-10:39:07.006 128a Compacting 1@0 + 3@1 files
+2026/03/05-10:39:07.020 128a Generated table #10639@0: 18691 keys, 297181 bytes
+2026/03/05-10:39:07.024 128a Generated table #10640@0: 912 keys, 67985 bytes
+2026/03/05-10:39:07.026 128a Generated table #10641@0: 63 keys, 6652 bytes
+2026/03/05-10:39:07.028 128a Generated table #10642@0: 119 keys, 2514 bytes
+2026/03/05-10:39:07.030 128a Generated table #10643@0: 252 keys, 29471 bytes
+2026/03/05-10:39:07.030 128a Compacted 1@0 + 3@1 files => 403803 bytes
+2026/03/05-10:39:07.032 128a compacted to: files[ 0 5 55 0 0 0 0 ]
+2026/03/05-10:39:07.032 128a Delete type=2 #10613
+2026/03/05-10:39:07.032 128a Delete type=2 #10610
+2026/03/05-10:39:07.033 128a Delete type=2 #10637
+2026/03/05-10:39:07.033 128a Delete type=2 #10614
+2026/03/05-10:39:14.117 128a Compacting 1@1 + 6@2 files
+2026/03/05-10:39:14.154 128a Generated table #10644@1: 83704 keys, 2234586 bytes
+2026/03/05-10:39:14.187 128a Generated table #10645@1: 95124 keys, 2247075 bytes
+2026/03/05-10:39:14.219 128a Generated table #10646@1: 98947 keys, 2251090 bytes
+2026/03/05-10:39:14.250 128a Generated table #10647@1: 101588 keys, 2254397 bytes
+2026/03/05-10:39:14.278 128a Generated table #10648@1: 44466 keys, 2436998 bytes
+2026/03/05-10:39:14.297 128a Generated table #10649@1: 23976 keys, 2186101 bytes
+2026/03/05-10:39:14.299 128a Generated table #10650@1: 102 keys, 85598 bytes
+2026/03/05-10:39:14.299 128a Compacted 1@1 + 6@2 files => 13695845 bytes
+2026/03/05-10:39:14.301 128a compacted to: files[ 0 4 56 0 0 0 0 ]
+2026/03/05-10:39:14.302 128a Delete type=2 #10639
+2026/03/05-10:39:14.302 128a Delete type=2 #10583
+2026/03/05-10:39:14.302 128a Delete type=2 #10584
+2026/03/05-10:39:14.302 128a Delete type=2 #10585
+2026/03/05-10:39:14.302 128a Delete type=2 #10588
+2026/03/05-10:39:14.302 128a Delete type=2 #10587
+2026/03/05-10:39:14.302 128a Delete type=2 #10586
+2026/03/05-10:39:15.997 128a Compacting 1@1 + 11@2 files
+2026/03/05-10:39:16.010 128a Generated table #10651@1: 2020 keys, 2151595 bytes
+2026/03/05-10:39:16.020 128a Generated table #10652@1: 2115 keys, 2143663 bytes
+2026/03/05-10:39:16.032 128a Generated table #10653@1: 2689 keys, 2149556 bytes
+2026/03/05-10:39:16.044 128a Generated table #10654@1: 1892 keys, 2154659 bytes
+2026/03/05-10:39:16.055 128a Generated table #10655@1: 2397 keys, 2144587 bytes
+2026/03/05-10:39:16.082 128a Generated table #10656@1: 32254 keys, 2218702 bytes
+2026/03/05-10:39:16.112 128a Generated table #10657@1: 25300 keys, 2276129 bytes
+2026/03/05-10:39:16.145 128a Generated table #10658@1: 24979 keys, 2273889 bytes
+2026/03/05-10:39:16.173 128a Generated table #10659@1: 26097 keys, 2267846 bytes
+2026/03/05-10:39:16.201 128a Generated table #10660@1: 27155 keys, 2250201 bytes
+2026/03/05-10:39:16.202 128a Generated table #10661@1: 268 keys, 9249 bytes
+2026/03/05-10:39:16.202 128a Compacted 1@1 + 11@2 files => 22040076 bytes
+2026/03/05-10:39:16.205 128a compacted to: files[ 0 3 56 0 0 0 0 ]
+2026/03/05-10:39:16.206 128a Delete type=2 #10625
+2026/03/05-10:39:16.206 128a Delete type=2 #10619
+2026/03/05-10:39:16.206 128a Delete type=2 #10623
+2026/03/05-10:39:16.206 128a Delete type=2 #10622
+2026/03/05-10:39:16.206 128a Delete type=2 #10626
+2026/03/05-10:39:16.206 128a Delete type=2 #10618
+2026/03/05-10:39:16.206 128a Delete type=2 #10640
+2026/03/05-10:39:16.206 128a Delete type=2 #10621
+2026/03/05-10:39:16.206 128a Delete type=2 #10628
+2026/03/05-10:39:16.206 128a Delete type=2 #10627
+2026/03/05-10:39:16.206 128a Delete type=2 #10624
+2026/03/05-10:39:16.206 128a Delete type=2 #10620
+2026/03/05-10:39:16.232 128a Compacting 1@1 + 2@2 files
+2026/03/05-10:39:16.270 128a Generated table #10662@1: 92922 keys, 2240372 bytes
+2026/03/05-10:39:16.288 128a Generated table #10663@1: 34259 keys, 1680739 bytes
+2026/03/05-10:39:16.289 128a Compacted 1@1 + 2@2 files => 3921111 bytes
+2026/03/05-10:39:16.290 128a compacted to: files[ 0 2 56 0 0 0 0 ]
+2026/03/05-10:39:16.323 128a Compacting 1@1 + 11@2 files
+2026/03/05-10:39:16.347 128a Generated table #10664@1: 23101 keys, 2261451 bytes
+2026/03/05-10:39:16.363 128a Generated table #10665@1: 8973 keys, 2218224 bytes
+2026/03/05-10:39:16.371 128a Generated table #10666@1: 1545 keys, 2118842 bytes
+2026/03/05-10:39:16.380 128a Generated table #10667@1: 1505 keys, 2116502 bytes
+2026/03/05-10:39:16.388 128a Generated table #10668@1: 1737 keys, 2116617 bytes
+2026/03/05-10:39:16.407 128a Generated table #10669@1: 23833 keys, 2168640 bytes
+2026/03/05-10:39:16.423 128a Generated table #10670@1: 7267 keys, 2128199 bytes
+2026/03/05-10:39:16.437 128a Generated table #10671@1: 7236 keys, 2130564 bytes
+2026/03/05-10:39:16.448 128a Generated table #10672@1: 631 keys, 2117941 bytes
+2026/03/05-10:39:16.467 128a Generated table #10673@1: 37584 keys, 2164922 bytes
+2026/03/05-10:39:16.469 128a Generated table #10674@1: 1768 keys, 34433 bytes
+2026/03/05-10:39:16.469 128a Compacted 1@1 + 11@2 files => 21576335 bytes
+2026/03/05-10:39:16.472 128a compacted to: files[ 0 1 56 0 0 0 0 ]
+2026/03/05-10:39:16.472 128a Delete type=2 #10643
+2026/03/05-10:39:16.472 128a Delete type=2 #10606
+2026/03/05-10:39:16.472 128a Delete type=2 #10605

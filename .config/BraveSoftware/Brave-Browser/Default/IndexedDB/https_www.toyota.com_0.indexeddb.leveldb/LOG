@@ -1,0 +1,6 @@
+2026/02/25-17:56:18.455 11ad Creating DB /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.toyota.com_0.indexeddb.leveldb since it was missing.
+2026/02/25-17:56:18.459 11ad Reusing MANIFEST /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.toyota.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/25-17:56:33.971 11b0 Level-0 table #5: started
+2026/02/25-17:56:33.972 11b0 Level-0 table #5: 2605 bytes OK
+2026/02/25-17:56:33.975 11b0 Delete type=0 #3
+2026/02/25-17:56:33.975 11b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

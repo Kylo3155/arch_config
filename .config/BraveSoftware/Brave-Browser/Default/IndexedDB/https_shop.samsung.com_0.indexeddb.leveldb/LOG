@@ -1,0 +1,6 @@
+2026/02/27-00:59:52.204 489d Creating DB /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_shop.samsung.com_0.indexeddb.leveldb since it was missing.
+2026/02/27-00:59:52.210 489d Reusing MANIFEST /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_shop.samsung.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/27-00:59:54.229 489e Level-0 table #5: started
+2026/02/27-00:59:54.230 489e Level-0 table #5: 1814 bytes OK
+2026/02/27-00:59:54.232 489e Delete type=0 #3
+2026/02/27-00:59:54.233 489e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

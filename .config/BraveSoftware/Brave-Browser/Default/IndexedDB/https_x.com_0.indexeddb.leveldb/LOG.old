@@ -1,0 +1,7 @@
+2026/02/24-15:02:16.104 11d2a Reusing MANIFEST /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/24-15:02:16.105 11d2a Recovering log #3
+2026/02/24-15:02:16.105 11d2a Reusing old log /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/000003.log 
+2026/02/24-15:02:37.334 11d2c Level-0 table #5: started
+2026/02/24-15:02:37.336 11d2c Level-0 table #5: 853 bytes OK
+2026/02/24-15:02:37.338 11d2c Delete type=0 #3
+2026/02/24-15:02:37.338 11d2c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

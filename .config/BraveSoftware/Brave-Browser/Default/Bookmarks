@@ -1,0 +1,47 @@
+{
+   "checksum": "c7c79c6f7d488e718fca63b76fae25cd",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13415466768798647",
+            "date_last_used": "0",
+            "guid": "2468d101-42e3-4d5c-a600-4d8f698ea8b5",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site",
+            "type": "url",
+            "url": "https://thepibay.site/"
+         } ],
+         "date_added": "13415466322988355",
+         "date_last_used": "0",
+         "date_modified": "13416892454584987",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13415466322988355",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13415466322988355",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

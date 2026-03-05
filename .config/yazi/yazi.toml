@@ -1,0 +1,8 @@
+[preview]
+wrap = "yes"
+image_quality = 90
+
+[mgr]
+sort_by = "natural"
+sort_dir_first = true
+sort_reverse = false

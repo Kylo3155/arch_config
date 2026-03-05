@@ -1,0 +1,6 @@
+2026/02/18-13:18:51.652 d66 Creating DB /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb since it was missing.
+2026/02/18-13:18:51.656 d66 Reusing MANIFEST /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/18-13:19:04.377 d66 Level-0 table #5: started
+2026/02/18-13:19:04.380 d66 Level-0 table #5: 277096 bytes OK
+2026/02/18-13:19:04.382 d66 Delete type=0 #3
+2026/02/18-13:19:04.382 d66 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

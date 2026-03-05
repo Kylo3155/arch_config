@@ -1,0 +1,8 @@
+#preload = /home/kylo/Wallpapers/1.png
+#wallpaper = ,/home/kylo/Wallpapers/1.png
+
+wallpaper {
+  monitor = DP-1
+  path = /home/kylo/Wallpapers/pico-nevado.jpg
+  fit_mode = cover
+}   

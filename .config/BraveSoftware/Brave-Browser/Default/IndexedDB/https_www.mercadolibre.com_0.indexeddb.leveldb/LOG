@@ -1,0 +1,6 @@
+2026/02/12-15:26:55.663 d76 Creating DB /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mercadolibre.com_0.indexeddb.leveldb since it was missing.
+2026/02/12-15:26:55.666 d76 Reusing MANIFEST /home/kylo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.mercadolibre.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/12-15:26:58.122 d76 Level-0 table #5: started
+2026/02/12-15:26:58.124 d76 Level-0 table #5: 1692 bytes OK
+2026/02/12-15:26:58.126 d76 Delete type=0 #3
+2026/02/12-15:26:58.126 d76 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,17 @@
+vim.g.mapleader = " "
+vim.opt.termguicolors = true
+
+require("nconf.lazy_init")
+local neopywal = require("neopywal")
+neopywal.setup()
+vim.cmd.colorscheme("neopywal")
+
+local function transparent_background()
+    local groups = { "Normal", "NonText", "SignColumn", "NormalNC", "EndOfBuffer", "MsgArea" }
+    for _, group in ipairs(groups) do
+        vim.api.nvim_set_hl(0, group, { bg = "NONE", ctermbg = "NONE" })
+    end
+end
+
+-- Ejecutarlo después de cargar el esquema de colores
+transparent_background()

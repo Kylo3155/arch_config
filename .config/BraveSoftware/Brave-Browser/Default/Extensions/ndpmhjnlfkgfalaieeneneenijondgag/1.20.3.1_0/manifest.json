@@ -1,0 +1,55 @@
+{
+   "action": {
+      "default_popup": "pages/popup.html"
+   },
+   "author": "zpix1",
+   "browser_specific_settings": {
+      "gecko": {
+         "data_collection_permissions": {
+            "required": [ "none" ]
+         },
+         "id": "youtube-anti-translate-mv3@namakeingo.co.uk",
+         "strict_min_version": "109.0"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "src/content_injectglobal.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://*.youtube-nocookie.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "src/global.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "src/content_start.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://*.youtube-nocookie.com/*" ]
+   }, {
+      "js": [ "src/content_channelbranding.js" ],
+      "matches": [ "*://*.youtube.com/*" ]
+   }, {
+      "js": [ "src/mobile-audio/content_inject_mobile_audio.js" ],
+      "matches": [ "*://m.youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "A small extension to disable YouTube video titles/audio/descriptions autotranslation.",
+   "host_permissions": [ "*://*.youtube.com/*", "*://*.youtube-nocookie.com/*" ],
+   "icons": {
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr8RgHGzfuTMLv1Is6vU0BthCKdkF/WiudduyRKv3qaEaym3LvP5fmbOLLY58voeG4DGydwsrgHRSGbM+e2LdVVzNl3Gq0D+WIDnWJ6wI3yQWjbo7zddIoXzYNPnYfW9Jsc/zWXo9YKYGlyHeJ9k/C7OgK2UKs5svdnOASqp7iW1ShkRwdde53UmBYTjuPT0y4zScyUI2hUfNjH+jywW0Tj0Muzv3ouYWehHNEKp571sAx0Lc3OU14ES5ZM/WNjPdVMHpgimmLAnwUvTjQeRQxNwNq9R+nWw/b90v6NzluGOjjkf/tf6T+IyWDD1xIzNYKVJ0pKX6DTX58g6UGi3VEQIDAQAB",
+   "manifest_version": 3,
+   "name": "YouTube Anti Translate",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "pages/popup.html"
+   },
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.20.3.1",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.youtube.com/*", "*://*.youtube-nocookie.com/*" ],
+      "resources": [ "src/global.js", "src/background.js", "src/background_audio.js", "src/background_description.js", "src/background_notifications.js", "src/mobile-audio/background_mobile_audio.js" ]
+   } ]
+}

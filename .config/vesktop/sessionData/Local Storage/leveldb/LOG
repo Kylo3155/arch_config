@@ -1,0 +1,6 @@
+2026/03/05-11:07:19.536 b22 Reusing MANIFEST /home/kylo/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/03/05-11:07:19.544 b22 Recovering log #912
+2026/03/05-11:07:19.544 b22 Reusing old log /home/kylo/.config/vesktop/sessionData/Local Storage/leveldb/000912.log 
+2026/03/05-11:53:22.573 bf3 Level-0 table #917: started
+2026/03/05-11:53:22.576 bf3 Level-0 table #917: 40883 bytes OK
+2026/03/05-11:53:22.579 bf3 Delete type=0 #912

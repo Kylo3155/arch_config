@@ -1,0 +1,11 @@
+# You can configure unique text to display for any given player
+# It works by doing a partial match against a players name
+# So for Firefox for example, which is advertised as 'Mozilla Firefox', you'd want something like this:
+#
+# [icons.players]
+# mozilla = 'icon'
+#
+# Even 'moz' would work, but obviously more specific strings are better to ensure the correct player is matched
+[icons.players]
+default = ""
+sample-player = "🔊"

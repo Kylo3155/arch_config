@@ -1,0 +1,6 @@
+2026/02/20-23:28:41.750 1445 Creating DB /home/kylo/.config/BraveSoftware/Brave-Browser/Default/WebStorage/43/IndexedDB/indexeddb.leveldb since it was missing.
+2026/02/20-23:28:41.754 1445 Reusing MANIFEST /home/kylo/.config/BraveSoftware/Brave-Browser/Default/WebStorage/43/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/02/20-23:29:00.243 1445 Level-0 table #5: started
+2026/02/20-23:29:00.244 1445 Level-0 table #5: 9514 bytes OK
+2026/02/20-23:29:00.247 1445 Delete type=0 #3
+2026/02/20-23:29:00.247 1445 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

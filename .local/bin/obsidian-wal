@@ -1,0 +1,21 @@
+#!/bin/sh
+
+myname="${0##*/}"
+
+# usage: prettyp "$1" "$2"
+# result: [1] 2: 3
+prettyp() {
+    printf '[\033[1;32m%s\033[0m] %s\n' "$1" "$2"
+}
+
+obsidian_snippets_dir="/home/kylo/.obsidian/Obsidian Vault/.obsidian/snippets"
+
+my_config="${XDG_CONFIG_HOME}/wal/postrun.rc"
+
+if [ -f "$my_config" ]; then
+    . "$my_config"
+fi
+
+cp -f "/home/kylo/.cache/wal/obsidian.css" "$obsidian_snippets_dir/obsidian.css"
+
+prettyp "$myname" "obsidian.css updated"

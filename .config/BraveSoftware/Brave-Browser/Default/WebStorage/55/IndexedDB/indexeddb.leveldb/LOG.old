@@ -1,0 +1,15 @@
+2026/03/05-10:16:00.654 59c1 Reusing MANIFEST /home/kylo/.config/BraveSoftware/Brave-Browser/Default/WebStorage/55/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/03/05-10:16:00.654 59c1 Recovering log #70
+2026/03/05-10:16:00.654 59c1 Reusing old log /home/kylo/.config/BraveSoftware/Brave-Browser/Default/WebStorage/55/IndexedDB/indexeddb.leveldb/000070.log 
+2026/03/05-10:16:00.654 59c1 Delete type=2 #68
+2026/03/05-10:16:03.025 59c1 Level-0 table #75: started
+2026/03/05-10:16:03.026 59c1 Level-0 table #75: 9441 bytes OK
+2026/03/05-10:16:03.028 59c1 Delete type=0 #70
+2026/03/05-10:16:03.028 59c1 Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/05-10:16:03.028 59c1 Manual compaction at level-1 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at '\x00\x14\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 5205 : 1
+2026/03/05-10:16:03.028 59c1 Compacting 1@1 + 1@2 files
+2026/03/05-10:16:03.029 59c1 Generated table #76@1: 61 keys, 1397 bytes
+2026/03/05-10:16:03.029 59c1 Compacted 1@1 + 1@2 files => 1397 bytes
+2026/03/05-10:16:03.031 59c1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/05-10:16:03.031 59c1 Delete type=2 #75
+2026/03/05-10:16:03.031 59c1 Manual compaction at level-1 from '\x00\x14\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 5205 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)

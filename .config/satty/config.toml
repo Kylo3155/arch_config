@@ -1,0 +1,5 @@
+[general]
+early-exit = true
+copy-command = "wl-copy"
+output-filename = "/home/kylo/Pictures/Screenshots/%Y-%m-%d_%H:%M:%S.png"
+save-after-copy = true

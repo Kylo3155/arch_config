@@ -1,0 +1,4 @@
+connect.mdns_devices="[]"
+connect.dial_devices="[{\"address\":\"192.168.18.194\",\"app_state\":\"INSTALLED\",\"created_timestamp\":1771687810,\"device_id\":\"5ffa089c-10e3-45ee-af12-836e702cfdef\",\"dial_location_url\":\"http://192.168.18.194:1124/\",\"display_name\":\"[LG] webOS TV UQ8050\",\"last_seen\":1771718170,\"manufacturer\":\"LG\",\"model_name\":\"60UQ8050\",\"product_cap\":\"\",\"public_ip\":\"2800:cb0:1120:98d0:51cb:21a2:69cd:b38f\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"a8a2372e0b26\",\"port\":9,\"retries\":480}}]"
+audio.play_bitrate_non_metered_migrated=true
+ui.hide_hpto=true

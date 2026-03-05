@@ -1,0 +1,22 @@
+#!/bin/sh
+
+WALLPAPER_DIR="/home/kylo/Wallpapers"
+
+if [ ! -d "$WALLPAPER_DIR" ]; then
+	echo "Error: $WALLPAPER_DIR doesn't exists."
+	exit 1
+fi
+
+RANDOM_WALLPAPER=$(find "$WALLPAPER_DIR" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" -o -iname "*.gif" \) | shuf -n 1)
+
+if [ -z "$RANDOM_WALLPAPER" ]; then
+	echo "Error: No images found in '$WALLPAPER_DIR'."
+	exit 1
+fi
+
+swww-daemon > /dev/null 2>&1
+
+/home/kylo/.local/bin/walset-backend "$RANDOM_WALLPAPER"
+
+echo "Wallpaper updated succesfully: $RANDOM_WALLPAPER."
+
